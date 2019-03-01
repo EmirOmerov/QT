@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/background.jpg</file>
+        <file>images/background2.jpg</file>
+        <file>images/background3.png</file>
+        <file>images/bullet.jpg</file>
+        <file>images/bullet1.png</file>
+        <file>images/enemy.png</file>
+        <file>images/player.jpg</file>
+        <file>images/player2.jpg</file>
+        <file>images/player3.png</file>
+        <file>images/player4.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/Bullet.wav</file>
+        <file>sounds/bensound-dubstep.mp3</file>
+    </qresource>
+</RCC>
